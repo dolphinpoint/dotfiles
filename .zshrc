@@ -21,9 +21,10 @@ znap prompt
 alias mkdir="mkdir -p"
 
 # comma commands
-alias ,lzg="lazygit"
-alias ,lzd="lazydocker"
-alias ,ydf="yadm fetch origin"
-alias ,ydc="yadm commit -a --allow-empty-message -m \"\""
-alias ,ydp="yadm push -u origin master"
-alias ,zzr="znap restart"
+alias ,lg="lazygit"
+alias ,ld="lazydocker"
+alias ,yf="yadm fetch origin"
+alias ,yc="yadm commit -a --allow-empty-message -m \"\""
+alias ,yp="yadm push -u origin master"
+alias ,zr="znap restart"
+alias ,rg="ranger"
